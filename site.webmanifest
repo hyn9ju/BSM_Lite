@@ -1,0 +1,22 @@
+{
+  "name": "브랜드 스타일 매트릭스 16 라이트",
+  "short_name": "브랜드 타입 테스트",
+  "description": "12개의 선택으로 찾는 나의 브랜드 스타일 — 마크인포 프리즘",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0E1230",
+  "theme_color": "#0E1230",
+  "icons": [
+    {
+      "src": "assets/img/brand/favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/img/brand/favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
